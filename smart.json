@@ -1,0 +1,8 @@
+{
+  "name": "yaml",
+  "description": "server-side yaml parser plugin for meteor.js",
+  "homepage": "http://gregory.github.io/meteor-yaml/",
+  "author": "gregorynicholas",
+  "version": "0.0.1",
+  "git": "https://github.com/gregorynicholas/meteor-yaml.git"
+}
